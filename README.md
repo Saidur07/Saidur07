@@ -1,10 +1,10 @@
 
 ![I am a Jr. Web Developer](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
-## Hi there 👋, I am Saidur.
+# Hi there 👋, I am Saidur.
 I'm Saidur from Bangladesh, and I am Jr. Web Developer. I really enjoy learning new technologies.
 
-### Skills 
+## Skills 
 
 * ⚛ React Js
 * 💻 HTML / CSS / JavaScript
