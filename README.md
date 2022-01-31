@@ -6,7 +6,7 @@
 - 🔭 Admin in Command , Programming Hero
 - 🌱 I’m currently learning Web Development
 - ⚡ I love learning new technologies 
-- - 📫 Email md.saidurrahman.bhola2007@gmail.com
+- 📫 Email md.saidurrahman.bhola2007@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaman-atif&label=Profile%20views&color=E4405F&style=flat" alt="zaman-atif" /> </p>
 
 ## Connect with Me
@@ -26,8 +26,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Saidur" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-saidur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Saidur" /></p>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?programmer-saidur" frameborder="0"></iframe>
