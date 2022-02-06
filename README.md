@@ -4,7 +4,7 @@
 
 
 - 🔭 Moderator, Programming Hero
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - ⚡ I love learning new technologies 
 - 📫 Email md.saidurrahman.bhola2007@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaman-atif&label=Profile%20views&color=E4405F&style=flat" alt="zaman-atif" /> </p>
