@@ -3,7 +3,7 @@
 <h2>Hi, I'm Saidur. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 
-- 🔭 Admin in Command , Programming Hero
+- 🔭 Moderator, Programming Hero
 - 🌱 I’m currently learning Web Development
 - ⚡ I love learning new technologies 
 - 📫 Email md.saidurrahman.bhola2007@gmail.com
