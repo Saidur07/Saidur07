@@ -1,13 +1,13 @@
 
 <!-- welcome message -->
-<h2>Hey! I'm Saidur. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h1>Hey! I'm Saidur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 
-- 🔭 Moderator, Programming Hero
+- 🔭 Moderator at <a href="https://www.programming-hero.com/" target="_blank">Programming Hero</a>
 - 🌱 I’m currently learning Full Stack Web Development
 - ⚡ I love learning new technologies 
 - 📫 Email md.saidurrahman.bhola2007@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaman-atif&label=Profile%20views&color=E4405F&style=flat" alt="zaman-atif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
 
 ## Connect with Me
 
@@ -55,14 +55,18 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&hide_border=true&theme=tokyonight)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&hide_border=true&theme=tokyonight)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight)  
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight)  
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/programmer-saidur)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/programmer-saidur)  
+
+
 
 
