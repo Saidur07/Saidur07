@@ -56,7 +56,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Saidur" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-saidur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Saidur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmer-saidur&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Saidur" /></p>
 
 
 
@@ -79,7 +79,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur)  
 
