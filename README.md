@@ -11,11 +11,13 @@
 
 ## Connect with Me
 
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100061725663437)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmer-saidur)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidur-rahman-6986b2201/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/761197542188777514)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.saidurrahman.bhola2007@gmail.com)
+
 
 ## 💻 Languages and Tools:
 
@@ -61,6 +63,7 @@
 <!-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 <!-- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) -->
 
+## My Stats 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&hide_border=true&theme=tokyonight)
 
@@ -69,7 +72,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight)  
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/programmer-saidur)   -->
 
