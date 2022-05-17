@@ -2,11 +2,11 @@
 <!-- welcome message -->
 <h1>Hey! I'm Saidur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-- 🔭 Jr. Web Developer Intern at Softwid Inc.
+- 💻 Jr. Web Developer Intern at Softwid Inc.
 - 🔭 Moderator at <a href="https://www.programming-hero.com/">Programming Hero</a>
 - 🌱 I’m currently learning Full Stack Web Development
 - ⚡ I love learning new technologies 
-- 📫 Email saidurhere@gmail.com
+- 📫 Email saidurhere@gmail.comaa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
 
 ## Connect with Me
