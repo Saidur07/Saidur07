@@ -81,7 +81,8 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight)  
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur)
 
 
 
