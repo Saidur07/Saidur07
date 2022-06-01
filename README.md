@@ -70,7 +70,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&hide_border=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&hide_border=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&hide_border=true&theme=tokyonight) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight)  
  
