@@ -4,7 +4,7 @@
 
 - 💻 Jr. Web Developer Intern at Softwid Inc.
 - 🔭 Moderator at <a href="https://www.programming-hero.com/">Programming Hero</a>
-- 🌱 I’m currently learning Full Stack Web Development
+- 😍 React lover
 - ⚡ I love learning new technologies 
 - 📫 Email saidurhere@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
