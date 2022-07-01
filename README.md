@@ -2,7 +2,7 @@
 <!-- Welcome Message  -->
 <h1>Hey! I'm Saidur  </h1>
 
-- 💻 Jr. Web Developer Intern at Softwid Inc.
+- 💻 Full Stack Developer at Genres
 - 🔭 Moderator at <a href="https://www.programming-hero.com/">Programming Hero</a>
 - 😍 React lover
 - ⚡ I love learning new technologies 
