@@ -3,8 +3,8 @@
 <h1>Hey! I'm Saidur  </h1>
 
 - 💻 Full Stack Developer at Genres
-- 🔭 Moderator at <a href="https://www.programming-hero.com/">Programming Hero</a>
-- 😍 Pure React lover
+- 🔭 Volunteer at <a href="https://www.programming-hero.com/">Programming Hero</a>
+- 😍 React JS lover
 - ⚡ I love learning new technologies 
 - 📫 Email saidurhere@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
