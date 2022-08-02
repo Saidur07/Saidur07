@@ -1,10 +1,9 @@
-
 <!-- Welcome Message  -->
-<h1>Hey! I'm Saidur</h1> 
+<h1>Hey! I'm Saidur</h1>
 
 - 💻 Full Stack Developer at Genres
 - 🔭 Volunteer at <a href="https://www.programming-hero.com/">Programming Hero</a>
-- 😍 React JS lover 
+- 😍 React JS lover
 - ⚡ I love learning new technologies
 - 📫 Email saidurhere@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
@@ -39,34 +38,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-
-
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-ffef00?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-
-
-## My Stats 
+## My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&hide_border=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&hide_border=true&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&hide_border=true&theme=tokyonight)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight)  
- 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
-
-
-
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
