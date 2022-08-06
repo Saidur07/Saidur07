@@ -6,7 +6,6 @@
 - 😍 React JS lover
 - ⚡ I love learning new technologies
 - 📫 Email saidurhere@gmail.com
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
 
 ## Connect with Me
@@ -28,7 +27,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
