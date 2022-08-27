@@ -5,8 +5,8 @@
 - 🔭 Volunteer at <a href="https://www.programming-hero.com/">Programming Hero</a>
 - 😍 React JS lover
 - ⚡ I love learning new technologies
-- 📫 Email saidurhere@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-saidur&label=Profile%20views&color=E4405F&style=flat" alt="programmer-saidur" /> </p>
+- 📫 Email saidurhere@gmail.com <br/> <br/>
+[![](https://visitcount.itsvg.in/api?id=programmer-saidur&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## Connect with Me
 
@@ -48,14 +48,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## My Stats
+#  My Stats:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&hide_border=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer-saidur&show_icons=true&hide_border=true&theme=tokyonight)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight)
+<p float="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
+
+</p>
+
+
+---
+
 
