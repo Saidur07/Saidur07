@@ -48,20 +48,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#  My Stats:
+#  Stats
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-<p float="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight&hide_border=true)
 ![](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
-
-</p>
 
 
 ---
