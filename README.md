@@ -6,8 +6,8 @@
 - 😍 React JS lover
 - ⚡ I love learning new technologies
 - 📫 Email saidurhere@gmail.com <br/> <br/>
-[![](https://visitcount.itsvg.in/api?id=programmer-saidur&icon=8&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=programmer-saidur&icon=8&color=0)](https://visitcount.itsvg.in) <br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100061725663437)
@@ -52,7 +52,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
 <p float="center">
