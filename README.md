@@ -51,11 +51,12 @@
 #  Stats
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight&hide_border=true)
+
 ![](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
 
 
