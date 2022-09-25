@@ -5,7 +5,7 @@
 
 
 
-- 💻 Full Stack Developer at Genres
+- 💻 Full Stack Developer at <a href="http://genres-agency.com/">Genres</a>
 - 🔭 Volunteer at <a href="https://www.programming-hero.com/">Programming Hero</a>
 - 😍 React JS lover
 - ⚡ I love learning new technologies
