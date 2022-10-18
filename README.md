@@ -1,5 +1,5 @@
 <!-- Welcome Message  -->
-<h1>Hey! I'm Saidur</h1>
+<h1>Hi! I'm Saidur</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDAE&width=635&lines=Full+stack+web+dev+%F0%9F%92%BB;React+JS+lover+%F0%9F%98%8D;Front-end+developer+at+Genres+%F0%9F%92%BC;Volunteer+at+Programming+Hero+%F0%9F%8D%95)](https://git.io/typing-svg)
 
