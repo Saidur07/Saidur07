@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDAE&width=635&lines=Full+stack+web+dev+%F0%9F%92%BB;React+JS+lover+%F0%9F%98%8D;Front-end+developer+at+Genres+%F0%9F%92%BC;Volunteer+at+Programming+Hero+%F0%9F%8D%95)](https://git.io/typing-svg)
 
 
-- 💻 Full Stack Developer
-- 🔭 Volunteer at <a href="https://www.programming-hero.com/">Programming Hero</a>
-- 😍 React JS lover
-- ⚡ I love learning new technologies
+- 💻 MERN Stack Developer
+- 🔭 Co-founder at <a href="https://www.dreabuild.com/">DreaBuild</a>
+- 🪲 Bugs hunter
+- ⚡ Loves learning new technologies
 - 📫 Email saidurhere@gmail.com <br/> <br/> 
 [![](https://visitcount.itsvg.in/api?id=programmer-saidur&icon=8&color=0)](https://visitcount.itsvg.in) <br/> <br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
