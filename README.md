@@ -1,8 +1,5 @@
 <!-- Welcome Message  -->
 <h1>Hi! I'm Saidur</h1>
-This file will be updated soon....
-
-s[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDAE&width=635&lines=Full+stack+web+dev+%F0%9F%92%BB;React+JS+lover+%F0%9F%98%8D;Co-founder-at-Dreabuild;Volunteer+at+Programming+Hero+%F0%9F%8D%95)](https://git.io/typing-svg)
 
 
 - 💻 MERN Stack Developer
