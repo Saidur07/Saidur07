@@ -4,7 +4,6 @@
 
 - 💻 MERN Stack Developer
 - 🔭 Co-founder at <a href="https://www.dreabuild.com/">DreaBuild</a>
-- 🪲 Bugs hunter
 - ⚡ Loves learning new technologies
 - 📫 Email saidurhere@gmail.com <br/> <br/> 
 [![](https://visitcount.itsvg.in/api?id=Saidur07&icon=8&color=0)](https://visitcount.itsvg.in) <br/> <br/>
