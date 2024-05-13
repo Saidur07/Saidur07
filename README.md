@@ -7,12 +7,12 @@
 - 🪲 Bugs hunter
 - ⚡ Loves learning new technologies
 - 📫 Email saidurhere@gmail.com <br/> <br/> 
-[![](https://visitcount.itsvg.in/api?id=programmer-saidur&icon=8&color=0)](https://visitcount.itsvg.in) <br/> <br/>
+[![](https://visitcount.itsvg.in/api?id=Saidur07&icon=8&color=0)](https://visitcount.itsvg.in) <br/> <br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100061725663437)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmer-saidur)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saidur07)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidur-rahman-6986b2201/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/761197542188777514)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidurhere@gmail.com)
@@ -51,13 +51,13 @@
 
 #  Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidur07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=programmer-saidur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Saidur07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=programmer-saidur&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saidur07&theme=tokyonight&hide_border=true)
 
-![](https://activity-graph.herokuapp.com/graph?username=programmer-saidur&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph?username=Saidur07&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
 
 
 ---
