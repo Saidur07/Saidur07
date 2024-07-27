@@ -2,8 +2,8 @@
 <h1>Hi! I'm Saidur</h1>
 
 
-- 💻 MERN Stack Developer
-- 🔭 Co-founder at <a href="https://www.dreabuild.com/">DreaBuild</a>
+- 💻 Full Stack Developer
+- 🔭 Co-founder & CPO at <a href="https://www.dreabuild.com/" target="_blank">Dreabuild</a>
 - ⚡ Loves learning new technologies
 - 📫 Email saidurhere@gmail.com <br/> <br/> 
 [![](https://visitcount.itsvg.in/api?id=Saidur07&icon=8&color=0)](https://visitcount.itsvg.in) <br/> <br/>
