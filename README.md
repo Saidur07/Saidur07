@@ -59,7 +59,7 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidur07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saidur07&theme=tokyonight&hide_border=true)
+ 
 
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saidur07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -68,5 +68,5 @@
 ---
 
 # 🏆 GitHub Trophies  
-```md
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saidur07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
