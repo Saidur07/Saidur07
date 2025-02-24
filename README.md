@@ -4,7 +4,7 @@
 - 💻 **Full Stack Developer** with expertise in modern web technologies  
 - 🚀 Passionate about **building scalable applications** and exploring **new tech stacks**  
 - ⚡ Loves **problem-solving, open-source contributions, and clean code**  
-- 🎨 Interested in **UI/UX design, performance optimization, and DevOps**  
+- 🎨 Interested in **UI/UX design and performance optimization**  
 - 📚 Always learning and **staying up-to-date with industry trends**  
 - 📫 Reach me at **saidurhere@gmail.com**  
 
